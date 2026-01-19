@@ -1,4 +1,4 @@
 - 📖 I’m working as a student in IUT Informatique de Limoges
 - ✏️ I'm currently learning Python (that's it for now...)
-- 📫 How to contact me: Email or Discord
+- 📫 How to contact me: Email
 - 🕹️ I'm currently trying to make my own little game
